@@ -1,4 +1,4 @@
-LIST PROMPT TERMINAL
+# LIST PROMPT TERMINAL #
 
 # Create virtual environment
 python -m venv venv
